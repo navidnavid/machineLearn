@@ -1,0 +1,1 @@
+make a ML platfoorm for different data based on a goal. 
